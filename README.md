@@ -1,6 +1,8 @@
 # spml.reg
 Circular or angular regression Use spml.reg (Rfast) With (In) R Software
 
+https://www.youtube.com/watch?v=n9PvTRNGrMg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
